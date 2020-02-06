@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ObviousNotes</string>
+    <string name="title_max_100_characters">Title (max 100 characters)</string>
+    <string name="start_making_notes">Start taking notes</string>
+    <string name="notes_details">Notes Details</string>
+    <string name="created_on">Created on :</string>
+    <string name="last_modified_on">Last modified on :</string>
+    <string name="no_notes_yet">No notes yet</string>
 </resources>
